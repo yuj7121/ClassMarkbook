@@ -1,0 +1,10 @@
+yaya
+File size(students): 6
+
+Index  Student Name           Student Mark
+1      Taliya Kline           83
+2      Charles Hamonns        58
+3      Judith Velez           93
+4      Prince Gough           94
+5      Fred Preece            83
+6      Nick Norton            89

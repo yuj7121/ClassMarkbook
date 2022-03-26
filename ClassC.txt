@@ -1,0 +1,16 @@
+yaya
+File size(students): 12
+
+Index  Student Name           Student Mark
+1      Aariz Denton           36
+2      Simon Faulker          89
+3      Mily Walter            92
+4      Tai King               84
+5      Shaya Willis           70
+6      George Foster          83
+7      Kofi Chung             80
+8      Keisha Grimes          77
+9      Menal Herbert          89
+10      Sohpia Macllen         82
+11     Soney Rosette          74
+12     Shelly Holton          82
